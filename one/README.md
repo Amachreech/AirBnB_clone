@@ -169,6 +169,4 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Ehoneah Obed | Email: [ehoneahobed](mailto:ehoneahobed@hotmail.com) 
-
-Anthony Etim | Github: [otoobongekim](mailto:otoobongekim@gmail.com)
+Henry Amachree | Github: [Amachreech](mailto:Amachreech@gmail.com)
